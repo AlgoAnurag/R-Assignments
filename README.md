@@ -1,21 +1,5 @@
 # UMA401 / UCS410 - R Lab Assignments
 
-Welcome to the **R Lab Assignments** repository for the course UMA401 / UCS410. This repository contains the code, solutions, and supplementary resources for the lab assignments conducted as part of the course.
+This repository contains solutions to the R Lab Assignments for UMA401 / UCS410. Each section covers different concepts in **statistical computing** and **data analysis** using R. The code explores a variety of topics including probability, hypothesis testing, data visualization, simulations, and more.
 
-## 📚 Course Overview
-
-The course introduces students to the fundamentals of **statistical computing** and **data analysis** using the R programming language. Key topics include:
-
-- **Descriptive statistics** (mean, median, variance, etc.)
-- **Probability distributions**
-- **Hypothesis testing**
-- **Regression analysis**
-- **Data visualization**
-- **Time series analysis**
-  
-This repository will be continually updated with the latest assignments, including the R code and corresponding outputs.
-
-## 🗂️ Repository Structure
-
-The repository is organized as follows:
 
